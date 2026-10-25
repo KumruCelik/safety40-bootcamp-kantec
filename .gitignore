@@ -1,0 +1,11 @@
+# İşletim sistemi / editör
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.tmp
+*.log
+~$*
